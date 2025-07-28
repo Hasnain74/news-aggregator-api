@@ -1,0 +1,10 @@
+/.idea/
+/*.sublime-workspace
+/*.code-workspace
+/.phpunit.cache/
+/vendor/
+/node_modules/
+.DS_Store
+Thumbs.db
+/.env
+/.env.*.php
